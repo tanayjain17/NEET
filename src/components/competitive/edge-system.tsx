@@ -446,4 +446,3 @@ export function CompetitiveEdgeSystem() {
     </div>
   );
 }
-"
